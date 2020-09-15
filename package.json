@@ -10,5 +10,9 @@
     "Prius"
   ],
   "author": "Prius",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/royandri/prius-typing",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/royandri"
+  }
 }
